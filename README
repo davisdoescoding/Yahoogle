@@ -1,0 +1,5 @@
+In the project directory, run the following commands in order to compile:
+javac -sourcepath src -d bin $(find src -name '*.java')
+jar cf crawler.jar bin
+jar cf indexer.jar bin
+jar cf pagerank.jar bin

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Project/src"/>
+	<classpathentry kind="lib" path="Project/lib/flame.jar"/>
+	<classpathentry kind="lib" path="Project/lib/kvs.jar"/>
+	<classpathentry kind="lib" path="Project/lib/webserver.jar"/>
+	<classpathentry kind="output" path="Project/src"/>
+</classpath>

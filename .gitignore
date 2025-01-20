@@ -1,0 +1,8 @@
+# ignore all .class files everywhere
+*.class
+
+# ignore the bin/ dir entirely
+/bin/
+
+# ignore the worker1/ directory entirely
+/worker1/

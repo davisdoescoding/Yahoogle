@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Project/lib/webserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/lib/kvs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/lib/flame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
